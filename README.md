@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<img src="https://github.com/Ephantuz/Ephantuz/blob/main/72Us.gif" width="850" height="500" />
+<img src="https://github.com/Ephantuz/Ephantuz/blob/master/72Us.gif" width="850" height="500" />
 
 <p align="center">
 {} 
