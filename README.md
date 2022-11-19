@@ -1,8 +1,13 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+buddy!+👋;I+Am+Ephantus+Mwangi...;And+Am+a+Software+Engineer;Welcome+to+my+hubspace!;&center=true&size=20">
   </a>
 </h1>
+
 
 <img src="https://github.com/Ephantuz/Ephantuz/blob/master/72Us.gif" width="850" height="500" />
 
@@ -36,3 +41,9 @@ We speak of what one can do here, and me, I develop things from scratch. A Breed
 [![](https://raw.githubusercontent.com/Ephantuz/Ephantuz/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Ephantuz/Ephantuz/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ephantuz/Ephantuz/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Ephantuz/Ephantuz/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ephantuz/Ephantuz/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
