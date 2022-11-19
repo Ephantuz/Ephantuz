@@ -26,7 +26,7 @@
 <!-- ![Software Developer | Full Stack Engineer | Web Developer](https://github.com/Ephantuz/Ephantuz/blob/main/github-image.jpg) -->
 
 <div>
-   <img align="right" width="50%" height="200px" src="https://github.com/Ephantuz/Ephantuz/blob/master/undraw_mobile_development_re_wwsn.svg" alt="Material Bread logo">
+   <img align="right" width="50%" height="200px" src="https://github.com/Ephantuz/Ephantuz/blob/master/undraw_open_source_-1-qxw.svg" alt="Material Bread logo">
  <p align="left">
 We speak of what one can do here, and me, I develop things from scratch. A Breed hard to find I believe. I’ve mastered my languages and decided what I want. I create systems. Both web Applications to systems applications. I deal with backend (Processing of data), APIs (data flow back to front) to Frond-End (UI and user/customer interface).
  I’ve also mastered databases, as well as cloud. From Mongo dB Database to AWS server. I started in tech with internships, freelance services, and part-time positions during campus. I have a bit of a diverse job history. I have had some partial positions in help desk, graphics/web design, webapp development, and sysadmin/DevOps. I can help everywhere in the stack. Let's say that I love wearing multiple hats to an extent, well they say “You never know what's coming... "Although my strongest skills are in software engineering and system security, I can work on any similar field or close. A day in my life may consist of: prepping web art, fixing some front-end/back-end bugs, app development, and systems developing and setting up a build or deployment plan and tests when I am lucky.
