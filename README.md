@@ -13,11 +13,11 @@
 
 <p align="center">
 
-  I have a lot of stuffs to talk about but I Decided to just show you instead What it entails. But before that, let me do my dramatic introduction. This is my GitHub profile and here, it’s where you will find what my world involves and by that, I mean My projects. 😊
+  I have a lot of stuff to talk about but I decided to just show you instead what it entails. Before that, let me do my dramatic introduction. This is my GitHub profile where you can find what my world entails - specifically, the projects I've been working on 😊
 
 </p>
 <p align="center">
- Ephantus, yep! That’s my name on this world… And am an Engineer, A software Engineer to be precise. I know it’s Title, but I own it here based on my art and wonders I can do. Here, I believe am a mastermind of my art and best of my best.  After my senior/high school, I ventured myself into development of softwares and became curious of how systems are designed and developed. How data is kept and retrieved from space, Cloud it’s the name 😊.  I was tinkering in between the development process and it took me 3 good years to understand everything I needed.
+ Ephantus, yep! That’s my name on this world… And I am an Engineer, A software Engineer to be precise. I know it’s a title, but I own it here based on my art and wonders I can do. Here, I believe I am a mastermind of my art and best of the best.  After senior/high school, I ventured into the development of software and became curious about how systems are designed and developed. How data is kept and retrieved from space, Cloud it’s the name 😊.  I was tinkering in between the development process and it took me 3 good years to understand everything I needed.
 </p>
 
  
@@ -28,8 +28,8 @@
 <div>
    <img align="right" width="50%" height="200px" src="https://github.com/Ephantuz/Ephantuz/blob/master/undraw_open_source_-1-qxw.svg" alt="Material Bread logo">
  <p align="left">
-We speak of what one can do here, and me, I develop things from scratch. A Breed hard to find I believe. I’ve mastered my languages and decided what I want. I create systems. Both web Applications to systems applications. I deal with backend (Processing of data), APIs (data flow back to front) to Frond-End (UI and user/customer interface).
- I’ve also mastered databases, as well as cloud. From Mongo dB Database to AWS server. I started in tech with internships, freelance services, and part-time positions during campus. I have a bit of a diverse job history. I have had some partial positions in help desk, graphics/web design, webapp development, and sysadmin/DevOps. I can help everywhere in the stack. Let's say that I love wearing multiple hats to an extent, well they say “You never know what's coming... "Although my strongest skills are in software engineering and system security, I can work on any similar field or close. A day in my life may consist of: prepping web art, fixing some front-end/back-end bugs, app development, and systems developing and setting up a build or deployment plan and tests when I am lucky.
+We speak of what one can do here, and me, I develop things from scratch. A breed hard to find I believe. I’ve mastered my languages and decided what I want. I create systems. Both web applications and systems applications. I deal with back-end (processing of data), APIs (data flow back to front) to front-end (UI and user/customer interface).
+ I’ve also mastered databases, and various aspects of cloud computing. From Mongo DB Database to AWS server. I started in tech with internships, freelance services, and part-time positions during campus. I have a bit of a diverse job history. I have had some partial positions in help desk, graphics/web design, webapp development, and sysadmin/DevOps. I can help everywhere in the stack. Let's say that I love wearing multiple hats to an extent, well they say “You never know what's coming... "Although my strongest skills are in software engineering and system security, I can work on any similar field or close. A day in my life may consist of: prepping web art, fixing some front-end/back-end bugs, app development, and systems developing and setting up a build or deployment plan and tests when I am lucky.
  </p>
 </div>
 
@@ -47,7 +47,7 @@ We speak of what one can do here, and me, I develop things from scratch. A Breed
 <table>
   <tr>
     <td>
-      <p> - 🔭  I’m currently working on Backend using Node.js and API's Intergration</p>
+      <p> - 🔭  I’m currently working on back-end using Node.js and API's Intergration</p>
       <p> - 🌱  Am also working on front-end development using Redux as the framework in React.js.</p>
       <p> - 🤝  👯 Am using Graphql as well for data analysis.</p>
       <p> - 💬  I am using Mongodb as the database and AWS as a server.</p>
