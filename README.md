@@ -79,7 +79,7 @@ We speak of what one can do here, and me, I develop things from scratch. A breed
 </div>
   
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ephantuz&bg_color=188f5f&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ephantuz&bg_color=188f5f&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)]
 
 
 
