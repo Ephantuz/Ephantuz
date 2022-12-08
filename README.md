@@ -78,9 +78,7 @@ We speak of what one can do here, and me, I develop things from scratch. A breed
   </table>
 </div>
   
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ephantuz&bg_color=188f5f&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)]
-
+[![Ephantuz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ephantuz&theme=github-compact)](https://github.com/Ephantuz/github-readme-activity-graph)
 
 
 <div id="header" align="center">
