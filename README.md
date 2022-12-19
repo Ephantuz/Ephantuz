@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+buddy!+👋;I+Am+Ephantus+Mwangi...;And+Am+a+Software+Engineer;Welcome+to+my+hubspace!;&center=true&size=20">
@@ -80,6 +81,13 @@ We speak of what one can do here, and me, I develop things from scratch. A breed
   
 [![Ephantuz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ephantuz&theme=github-compact)](https://github.com/Ephantuz/github-readme-activity-graph)
 
+
+
+<div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=Ephantuz&style=plastic&color=red&label=PROFILE+VIEWS)
+
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
