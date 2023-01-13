@@ -1,6 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
+<div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=Ephantuz&style=plastic&color=red&label=PROFILE+VIEWS)
+
+</div>
 
 
 <h1 align="center">
@@ -83,11 +88,7 @@ We speak of what one can do here, and me, I develop things from scratch. A breed
 
 
 
-<div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=Ephantuz&style=plastic&color=red&label=PROFILE+VIEWS)
-
-</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
