@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Ephantuz/Ephantuz/master/profile-summary-card-output/nord_bright/4-productive-time.svg)
+```
+
+    
